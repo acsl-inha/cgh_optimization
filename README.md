@@ -1,7 +1,8 @@
 # cgh_optimization
 Large-scale optimization for computer generated holography
 
-# Plot_image result (Click to enlarge the image.)
+# Plot_image result
+(Click to enlarge the image.)
 
 ### Results from LCOS/holography_gpu_1layer_LCOS_LS_3_1.ipynb
 ![20 11 03-1](https://user-images.githubusercontent.com/63335900/97987382-838f7080-1e1e-11eb-817c-238ae78dbe55.png)
