@@ -4,10 +4,14 @@ Large-scale optimization for computer generated holography (Based on Fourier Opt
 ## plot_image result
 (Click to enlarge the image.)
 
+* Each image was generated from 380nm, 440nm, 532nm, 640nm, 710nm, 780nm wavelength and corresponding distance.
+
 ### Results from 64 levels SLM
 ![20 11 05_nlevels64](https://user-images.githubusercontent.com/63335900/98204376-4a1f4800-1f79-11eb-8459-080763654179.png)
+
 ### Results from LCOS/holography_gpu_1layer_LCOS_LS_3_1.ipynb
 ![20 11 03-1](https://user-images.githubusercontent.com/63335900/97987382-838f7080-1e1e-11eb-817c-238ae78dbe55.png)
+
 ### Results from LCOS/holography_gpu_1layer_LCOS_LS_3_1-Copy1.ipynb
 ![20 11 03-copy1](https://user-images.githubusercontent.com/63335900/97987766-31028400-1e1f-11eb-8742-6cc8f00110ea.png)
 
