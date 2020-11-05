@@ -12,8 +12,8 @@ Large-scale optimization for computer generated holography (Based on Fourier Opt
 ![20 11 03-copy1](https://user-images.githubusercontent.com/63335900/97987766-31028400-1e1f-11eb-8742-6cc8f00110ea.png)
 
 ### Hologram image from 64 levels SLM
-![IMG2048x2048_64levels](https://user-images.githubusercontent.com/63335900/98206577-7b9a1280-1f7d-11eb-971c-7026d133d945.png)
+![IMG2048x2048_64levels](https://user-images.githubusercontent.com/63335900/98206577-7b9a1280-1f7d-11eb-971c-7026d133d945.png){: width="100" height="100"}
 ### Hologram image from LS_3
-![IMG2048x2048_ls_3](https://user-images.githubusercontent.com/63335900/98217147-6d53f280-1f8d-11eb-9ff3-cee0f2594f39.png)
+![IMG2048x2048_ls_3](https://user-images.githubusercontent.com/63335900/98217147-6d53f280-1f8d-11eb-9ff3-cee0f2594f39.png){: width="100" height="100"}
 ### Hologram image from LS_3-Copy1
-![IMG2048x2048_ls_3_copy](https://user-images.githubusercontent.com/63335900/98217160-7349d380-1f8d-11eb-99ba-e64d9639ca16.png)
+![IMG2048x2048_ls_3_copy](https://user-images.githubusercontent.com/63335900/98217160-7349d380-1f8d-11eb-99ba-e64d9639ca16.png){: width="100" height="100"}
