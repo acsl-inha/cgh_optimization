@@ -1,8 +1,8 @@
 # cgh_optimization
 Large-scale optimization for computer generated holography (Based on Fourier Optics)
+(You can click the image to enlarge.)
 
 ## plot_image result
-(Click to enlarge the image.)
 
 * Each image was generated from 380nm, 440nm, 532nm, 640nm, 710nm, 780nm wavelength and corresponding distance.
 
