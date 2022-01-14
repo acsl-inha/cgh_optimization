@@ -1,6 +1,6 @@
 # CGH_optimization
 Large-scale optimization for computer generated holography (Based on Fourier Optics)  
-(You can click the image to enlarge.)
+(Click the image to enlarge.)
 
 ## plot_image result
 
