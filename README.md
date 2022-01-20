@@ -14,7 +14,3 @@ Large-scale optimization for computer generated holography (Based on Fourier Opt
 
 ### Results from LCOS/holography_gpu_1layer_LCOS_LS_3_1-Copy1.ipynb
 ![20 11 03-copy1](https://user-images.githubusercontent.com/63335900/97987766-31028400-1e1f-11eb-8742-6cc8f00110ea.png)
-
-![image](https://user-images.githubusercontent.com/63335900/150269492-0aa567af-c257-49b0-8ada-e1cbddddedb5.png)
-![image](https://user-images.githubusercontent.com/63335900/150269524-7de5a951-f558-4436-baa8-e2128de6c756.png)
-![image](https://user-images.githubusercontent.com/63335900/150269592-822f1926-f236-4594-bacd-1331b4300440.png)
